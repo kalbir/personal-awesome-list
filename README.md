@@ -18,7 +18,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## People
 
-- [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202)
+- [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) &mdash; Great list of characteristics of someone you'd want to work for, by GitHub senior engineer @keavy. 
 
 ## Tools
 
