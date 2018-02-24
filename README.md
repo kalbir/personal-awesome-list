@@ -1,6 +1,6 @@
 # Personal Awesome List
 
-I constantly find myself looking for that one link to the great article on X that I read about that would be really helpful right now. Maybe a personal [awsome list](https://github.com/sindresorhus/awesome) would help.
+I constantly find myself looking for that one link to the great article on X that I read about that would be really helpful right now. Maybe a personal [awesome list](https://github.com/sindresorhus/awesome) would help.
 
 ## Product Management
 
