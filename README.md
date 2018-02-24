@@ -18,10 +18,10 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## People
 
-- [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) &mdash; Great list of characteristics of someone you'd want to work for, by GitHub senior engineer @keavy. 
+- [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) &mdash; Great list of characteristics of someone you'd want to work for, by GitHub senior engineer @keavy.
 
 ## Tools
 
--[Flourish, a tool for visualising data](https://flourish.studio/)
+- [Flourish, a tool for visualising data](https://flourish.studio/) &mdash; would be fun to play with this.
 
 - [Checklistomania](https://github.com/18F/checklistomania) &mdash; tool from 18F for managing shared checklists (like onboarding people)
