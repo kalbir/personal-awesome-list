@@ -10,7 +10,13 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Software engineering
 
+### Conceptual
+
 - [How facebook manages releasing loads of software all the time](https://t.co/4DNsiOFIZn)
+
+### Practical
+
+- [Guide to squashing git commits](https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history)
 
 ## Elixir
 
