@@ -24,13 +24,15 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Work
 
+- [The rands test](http://randsinrepose.com/archives/the-rands-test/) &mdash; test for health of your organisation, sort of strategy equivalent to [the Joel test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+
 ## People
 
 - [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) &mdash; Great list of characteristics of someone you'd want to work for, by GitHub senior engineer @keavy.
 
 - [How to socialize changes at work](https://chelseatroy.com/2018/02/25/how-to-socialize-big-changes-at-work-part-1-start-at-the-grassroots-level/) &mdash; this is pretty much exactly what I think about introducing change into teams. This part is about finding allies and how to introduce your idea. It's as if I wrote it.
 
-- [Strategic thinking with blogs and stickers](https://gilest.org/blogging-stickers.html) &mdash; a wonderfully clear bit of explanation of how you can communicate and embed your strategy through seemingly low key tools. 
+- [Strategic thinking with blogs and stickers](https://gilest.org/blogging-stickers.html) &mdash; a wonderfully clear bit of explanation of how you can communicate and embed your strategy through seemingly low key tools.
 
 ## Tools
 
