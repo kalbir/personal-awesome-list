@@ -18,7 +18,9 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Guide to squashing git commits](https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history)
 
-- [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) &mdash; a comprehensive and easy to understand guide to git. Epic.  
+- [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) &mdash; a comprehensive and easy to understand guide to git. Epic.
+
+- [The git pickaxe](http://www.philandstuff.com/2014/02/09/git-pickaxe.html) &mdash; has the amazing `git log -p -S thing` to search for when "thing" was added as well as a bunch of other tips.   
 
 ## Elixir
 
