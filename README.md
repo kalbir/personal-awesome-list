@@ -30,6 +30,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Building a first team mindset](http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/) &mdash; how to get into the thought that your executive peers are your team and work with them rather than silo-ing.
 
+
+
 ## People
 
 - [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) &mdash; Great list of characteristics of someone you'd want to work for, by GitHub senior engineer @keavy.
@@ -40,6 +42,16 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Tools
 
+### Data
+
+- [Google Data Studio]() &mdash; where have you been all my life! I've built this in excel soooooo many times, a way of building dashboards from tonnes of datasources, very excited to use this more.
 - [Flourish, a tool for visualising data](https://flourish.studio/) &mdash; would be fun to play with this.
+
+### Building web/mobile apps
+
+- [Tachyons](http://tachyons.io/) &mdash; front end framework for building clean sites.
+- [Figma](https://www.figma.com/) &mdash; a design tool mobile apps.
+
+### Other
 
 - [Checklistomania](https://github.com/18F/checklistomania) &mdash; tool from 18F for managing shared checklists (like onboarding people)
