@@ -22,7 +22,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [The git pickaxe](http://www.philandstuff.com/2014/02/09/git-pickaxe.html) &mdash; has the amazing `git log -p -S thing` to search for when "thing" was added as well as a bunch of other tips.
 
-- [The front end checklist](https://github.com/thedaviddias/Front-End-Checklist#how-to-use) &mdash; Great list for kicking off any front end projects.  
+- [The front end checklist](https://github.com/thedaviddias/Front-End-Checklist#how-to-use) &mdash; great list for kicking off any front end projects.  
 
 ## Elixir
 
