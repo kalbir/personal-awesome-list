@@ -24,6 +24,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [The front end checklist](https://github.com/thedaviddias/Front-End-Checklist#how-to-use) &mdash; great list for kicking off any front end projects.  
 
+- [Regexr](https://regexr.com/) &mdash; I struggle a lot with Regex, this tool to try out regexs in the browser helps.
+
 ## Elixir
 
 ## Work
