@@ -26,7 +26,11 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Regexr](https://regexr.com/) &mdash; I struggle a lot with Regex, this tool to try out regexs in the browser helps.
 
+- [Upcase](https://thoughtbot.com/upcase) &mdash; guides and lessons for intermediate level developers, mainly in ruby and rails but generic things too. 
+
 ## Elixir
+
+[Working with files in elixir](https://code.tutsplus.com/tutorials/working-with-file-system-in-elixir--cms-28869) &mdash; useful reminders on the basics of working with files.
 
 ## Work
 
@@ -35,8 +39,6 @@ I constantly find myself looking for that one link to the great article on X tha
 - [Building a first team mindset](http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/) &mdash; how to get into the thought that your executive peers are your team and work with them rather than silo-ing.
 
 - [Culture doesn't come later](https://medium.nobl.io/culture-doesnt-come-later-2f5a8a3e2513) &mdash; overview of what organisational culture consists in, why it is important and some views on how to work on it.
-
-
 
 ## People
 
