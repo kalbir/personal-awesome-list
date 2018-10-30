@@ -26,7 +26,13 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Regexr](https://regexr.com/) &mdash; I struggle a lot with Regex, this tool to try out regexs in the browser helps.
 
-- [Upcase](https://thoughtbot.com/upcase) &mdash; guides and lessons for intermediate level developers, mainly in ruby and rails but generic things too. 
+- [Upcase](https://thoughtbot.com/upcase) &mdash; guides and lessons for intermediate level developers, mainly in ruby and rails but generic things too.
+
+- [Makefiles](https://matthias-endler.de/2017/makefiles/) &mdash; subtitled "Afraid of Makefiles? Don't be!". Covers the basics quickly and clearly.
+
+## Design
+
+- [Design Principles](https://principles.design/) &mdash; an open source collection of design principles and systems that various organisations have published.
 
 ## Elixir
 
@@ -52,7 +58,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ### Data
 
-- [Google Data Studio]() &mdash; where have you been all my life! I've built this in excel soooooo many times, a way of building dashboards from tonnes of datasources, very excited to use this more.
+- [Google Data Studio](https://datastudio.google.com/) &mdash; where have you been all my life! I've built this in excel soooooo many times, a way of building dashboards from tonnes of datasources, very excited to use this more.
+  
 - [Flourish, a tool for visualising data](https://flourish.studio/) &mdash; would be fun to play with this.
 
 ### Building web/mobile apps
