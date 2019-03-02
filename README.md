@@ -8,6 +8,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [The first principles of product management](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c) &mdash; maximise impact to the mission and achieve everything through others. Long, good.
 
+- [Product management mental models](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) &emdash; great list of mental models to use in product management. They are the little shorthands you pick up through experience to help familirise yourself in new territory. Examples: local maxima, ship earlier for customer value, key failure indicator (love that one).
+
 ## Software engineering
 
 ### Conceptual
@@ -36,7 +38,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Elixir
 
-[Working with files in elixir](https://code.tutsplus.com/tutorials/working-with-file-system-in-elixir--cms-28869) &mdash; useful reminders on the basics of working with files.
+- [Working with files in elixir](https://code.tutsplus.com/tutorials/working-with-file-system-in-elixir--cms-28869) &mdash; useful reminders on the basics of working with files.
 
 ## Work
 
