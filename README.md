@@ -2,6 +2,10 @@
 
 I constantly find myself looking for that one link to the great article on X that I read about that would be really helpful right now. Maybe a personal [awesome list](https://github.com/sindresorhus/awesome) would help.
 
+## Creativity and art
+
+- [33 rules to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html?utm_campaign=TFTWS&utm_medium=email&utm_source=Revue%20newsletter) &mdash; similar to _The Artist's Way_, tips, exercises, exhortations on how to be creative. 
+
 ## Product Management
 
 - [The open product management mega list](https://github.com/tron1991/open-product-management)
