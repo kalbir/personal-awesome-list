@@ -12,7 +12,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [The first principles of product management](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c) &mdash; maximise impact to the mission and achieve everything through others. Long, good.
 
-- [Product management mental models](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) &emdash; great list of mental models to use in product management. They are the little shorthands you pick up through experience to help familirise yourself in new territory. Examples: local maxima, ship earlier for customer value, key failure indicator (love that one).
+- [Product management mental models](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) &mdash; great list of mental models to use in product management. They are the little shorthands you pick up through experience to help familirise yourself in new territory. Examples: local maxima, ship earlier for customer value, key failure indicator (love that one).
 
 ## Software engineering
 
@@ -56,6 +56,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## People
 
+- [Building Inclusive Engineering Teams](https://www.youtube.com/watch?v=SYsI-6_csMY) &mdash; *the* talk outlining the why and the how of building inclusive teams. So much that I kinda know but put super clearly. By Mekka Okereke, an engineering manager at Google.
+
 - [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) &mdash; Great list of characteristics of someone you'd want to work for, by GitHub senior engineer @keavy.
 
 - [How to socialize changes at work](https://chelseatroy.com/2018/02/25/how-to-socialize-big-changes-at-work-part-1-start-at-the-grassroots-level/) &mdash; this is pretty much exactly what I think about introducing change into teams. This part is about finding allies and how to introduce your idea. It's as if I wrote it.
@@ -78,3 +80,7 @@ I constantly find myself looking for that one link to the great article on X tha
 ### Other
 
 - [Checklistomania](https://github.com/18F/checklistomania) &mdash; tool from 18F for managing shared checklists (like onboarding people)
+
+### Life
+
+- [How to shine shoes](https://thearmoury.com/blogs/journal/how-to-shine-shoes) &mdash; the world shoe shine champion shows how to shine and get a mirror finish.
