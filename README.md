@@ -40,6 +40,9 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Design Principles](https://principles.design/) &mdash; an open source collection of design principles and systems that various organisations have published.
 
+- [Form design: from zero to hero all in one blog post](https://adamsilver.io/articles/form-design-from-zero-to-hero-all-in-one-blog-post/) &mdash; _all the tips_ on how to build good web forms.
+
+
 ## Elixir
 
 - [Working with files in elixir](https://code.tutsplus.com/tutorials/working-with-file-system-in-elixir--cms-28869) &mdash; useful reminders on the basics of working with files.
