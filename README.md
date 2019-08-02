@@ -50,7 +50,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Building a first team mindset](http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/) &mdash; how to get into the thought that your executive peers are your team and work with them rather than silo-ing.
 
-- [Culture doesn't come later](https://medium.nobl.io/culture-doesnt-come-later-2f5a8a3e2513) &mdash; overview of what organisational culture consists in, why it is important and some views on how to work on it.
+- [Culture doesn't come later](https://www.linkedin.com/pulse/culture-doesnt-come-later-bud-caddell/) &mdash; overview of what organisational culture consists in, why it is important and some views on how to work on it.
   
 - [How to be strategic](https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b) &mdash; really good article, very practical.
 
