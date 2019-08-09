@@ -49,6 +49,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Work
 
+- My favourite rands articles are: [The update, the vent and the disaster](https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/), [Say the hard thing](https://randsinrepose.com/archives/say-the-hard-thing/), [Don't YOLO hard conversations](https://randsinrepose.com/archives/dont-yolo-hard-conversations/), and [Gossip, rumours and lies](https://randsinrepose.com/archives/gossip-rumors-and-lies/). Those are the ones I can think of right now.
+
 - [The rands test](http://randsinrepose.com/archives/the-rands-test/) &mdash; test for health of your organisation, sort of strategy equivalent to [the Joel test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 - [Building a first team mindset](http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/) &mdash; how to get into the thought that your executive peers are your team and work with them rather than silo-ing.
@@ -56,6 +58,8 @@ I constantly find myself looking for that one link to the great article on X tha
 - [Culture doesn't come later](https://www.linkedin.com/pulse/culture-doesnt-come-later-bud-caddell/) &mdash; overview of what organisational culture consists in, why it is important and some views on how to work on it.
   
 - [How to be strategic](https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b) &mdash; really good article, very practical.
+
+- [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md) &dash; 18F repo with a playbook, with a lot of the basics around software dev, product, teams, budgets etc. Probably most relevant to larger orgs that struggle with tech projects.
 
 ## People
 
@@ -66,6 +70,12 @@ I constantly find myself looking for that one link to the great article on X tha
 - [How to socialize changes at work](https://chelseatroy.com/2018/02/25/how-to-socialize-big-changes-at-work-part-1-start-at-the-grassroots-level/) &mdash; this is pretty much exactly what I think about introducing change into teams. This part is about finding allies and how to introduce your idea. It's as if I wrote it.
 
 - [Strategic thinking with blogs and stickers](https://gilest.org/blogging-stickers.html) &mdash; a wonderfully clear bit of explanation of how you can communicate and embed your strategy through seemingly low key tools.
+
+- [Do I truly want to be a manager](https://m.signalvnoise.com/do-i-truly-want-to-become-a-manager/) &mdash; good questions to make sure peeps who want to become a manager have a reasonable expectation of what it involves. Also good to read now and again to remind yourself of what I myself should be looking at. 
+
+- [How privilege defines performace](http://slides.com/tatianamac/how-privilege-defines-performance/fullscreen/#/) &mdash; beautiful slides carefully breaking down how privilege works to build a systematic bias in societies and how we are all part of it (both privileged and not). There's the [video of the talk](https://www.youtube.com/watch?v=nQq_gZiZ-jg) too.
+
+- [Engineering management: the pendulum or the ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) &mdash; lots of peeps talk about this kind of thing but Charity has some far out opinions. Similar to [this rands podcast](https://randsinrepose.com/archives/the-one-about-management-pt-1/). 
 
 ## Tools
 
@@ -78,12 +88,15 @@ I constantly find myself looking for that one link to the great article on X tha
 ### Building web/mobile apps
 
 - [Tachyons](http://tachyons.io/) &mdash; front end framework for building clean sites. Built my current blog incarnation with this.
+
 - [Figma](https://www.figma.com/) &mdash; a design tool mobile apps.
+
+- [Readymag](https://readymag.com/) &mdash; build quirky, small websites with more design choices. Useful for putting something online with novel design.
 
 ### Other
 
 - [Checklistomania](https://github.com/18F/checklistomania) &mdash; tool from 18F for managing shared checklists (like onboarding people)
 
-### Life
+## Life
 
 - [How to shine shoes](https://thearmoury.com/blogs/journal/how-to-shine-shoes) &mdash; the world shoe shine champion shows how to shine and get a mirror finish.
