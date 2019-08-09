@@ -14,6 +14,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Product management mental models](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) &mdash; great list of mental models to use in product management. They are the little shorthands you pick up through experience to help familirise yourself in new territory. Examples: local maxima, ship earlier for customer value, key failure indicator (love that one).
 
+- [Shape up](https://basecamp.com/shapeup) &mdash; product management from 37signals. I'm a bit in love with this at the moment.
+
 ## Software engineering
 
 ### Conceptual
