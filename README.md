@@ -4,7 +4,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Creativity and art
 
-- [33 rules to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html?utm_campaign=TFTWS&utm_medium=email&utm_source=Revue%20newsletter) &mdash; similar to _The Artist's Way_, tips, exercises, exhortations on how to be creative. 
+- [33 rules to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html?utm_campaign=TFTWS&utm_medium=email&utm_source=Revue%20newsletter) &mdash; similar to _The Artist's Way_, tips, exercises, exhortations on how to be creative.
 
 ## Product Management
 
@@ -12,7 +12,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [The first principles of product management](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c) &mdash; maximise impact to the mission and achieve everything through others. Long, good.
 
-- [Product management mental models](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) &mdash; great list of mental models to use in product management. They are the little shorthands you pick up through experience to help familirise yourself in new territory. Examples: local maxima, ship earlier for customer value, key failure indicator (love that one).
+- [Product management mental models](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) &mdash; great list of mental models to use in product management. They are the little shorthands you pick up through experience to help familiarise yourself in new territory. Examples: local maxima, ship earlier for customer value, key failure indicator (love that one).
 
 - [Shape up](https://basecamp.com/shapeup) &mdash; product management from 37signals. I'm a bit in love with this at the moment.
 
@@ -43,7 +43,6 @@ I constantly find myself looking for that one link to the great article on X tha
 - [Design Principles](https://principles.design/) &mdash; an open source collection of design principles and systems that various organisations have published.
 
 - [Form design: from zero to hero all in one blog post](https://adamsilver.io/articles/form-design-from-zero-to-hero-all-in-one-blog-post/) &mdash; _all the tips_ on how to build good web forms.
-
 
 ## Elixir
 
@@ -102,3 +101,5 @@ I constantly find myself looking for that one link to the great article on X tha
 ## Life
 
 - [How to shine shoes](https://thearmoury.com/blogs/journal/how-to-shine-shoes) &mdash; the world shoe shine champion shows how to shine and get a mirror finish.
+
+- [Swedish cardamom buns](http://www.swedishfood.com/swedish-food-recipes-biscuits-cakes/509-cardamom-buns) &mdash I'd been working on making cardamom buns for ages with a few different recipes and it wasn't going great. Then one day I was doing my usual reading of [uses this](https://usesthis.com/) when I came across this recipe in the post of the [wonder Darra Goldstein](https://usesthis.com/interviews/darra.goldstein/), linguist and cookbook writer extrordinare! Reader, they were marvellous.
