@@ -102,6 +102,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Checklistomania](https://github.com/18F/checklistomania) &mdash; tool from 18F for managing shared checklists (like onboarding people)
 
+- [Fibery](https://fibery.io/) &mdash; some kind of all in one company management/HR/docs/wiki etc tool. Seems interesting.
+
 ## Life
 
 - [How to shine shoes](https://thearmoury.com/blogs/journal/how-to-shine-shoes) &mdash; the world shoe shine champion shows how to shine and get a mirror finish.
