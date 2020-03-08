@@ -44,6 +44,10 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Form design: from zero to hero all in one blog post](https://adamsilver.io/articles/form-design-from-zero-to-hero-all-in-one-blog-post/) &mdash; _all the tips_ on how to build good web forms.
 
+- [Butterick’s Practical Typography](https://practicaltypography.com/) &mdash; web based book that covers everything to do with using effective typography in your designs.
+
+- [Type foundry index](https://type.lol/) &mdash; a list of lots of online type foundries, including the ones that have free trials.
+
 ## Elixir
 
 - [Working with files in elixir](https://code.tutsplus.com/tutorials/working-with-file-system-in-elixir--cms-28869) &mdash; useful reminders on the basics of working with files.
