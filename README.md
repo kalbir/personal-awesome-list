@@ -22,6 +22,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [How facebook manages releasing loads of software all the time](https://t.co/4DNsiOFIZn)
 
+- [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md) &mdash; 18F repo with a playbook, with a lot of the basics around software dev, product, teams, budgets etc. Probably most relevant to larger orgs that struggle with tech projects.
+
 ### Practical
 
 - [Guide to squashing git commits](https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history)
@@ -64,7 +66,9 @@ I constantly find myself looking for that one link to the great article on X tha
   
 - [How to be strategic](https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b) &mdash; really good article, very practical.
 
-- [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md) &dash; 18F repo with a playbook, with a lot of the basics around software dev, product, teams, budgets etc. Probably most relevant to larger orgs that struggle with tech projects.
+- [The weekly CEO email](https://medium.com/@gokulrajaram/the-weekly-ceo-e-mail-b5eaafcee6fa) &mdash; the how and why of sending a weekly CEO update. Short version: you definitely need to do this. Possibly worth doing in any leadership role.
+
+- [The power of ten playbook](https://dcgross.com/the-power-of-ten-playbook/) &mdash; this is brilliant. The way I want to build a new product.
 
 ## People
 
