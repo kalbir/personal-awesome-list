@@ -8,7 +8,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Product Management
 
-- [The open product management mega list](https://github.com/tron1991/open-product-management)
+- [Top 90+ Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) &mdash; this is superb, so many canonical articles. First place to go for PM related thinking.
 
 - [The first principles of product management](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c) &mdash; maximise impact to the mission and achieve everything through others. Long, good.
 
