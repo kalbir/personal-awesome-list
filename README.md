@@ -16,6 +16,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Shape up](https://basecamp.com/shapeup) &mdash; product management from 37signals. I'm a bit in love with this at the moment.
 
+- [Product Launch Checklist](https://medium.com/@tanyajohnson/product-launch-checklist-8483105f82f3#.yxfhqdocf) &mdash; very comprehensive [spreadsheet](https://docs.google.com/spreadsheets/d/1T_dtCX9uMUohPLwF8U8k0G2JVvb90qdkO65UH3Ah1qI/edit#gid=0) covering product launch activities.
+
 ## Software engineering
 
 ### Conceptual
