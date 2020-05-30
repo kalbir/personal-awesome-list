@@ -82,7 +82,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Strategic thinking with blogs and stickers](https://gilest.org/blogging-stickers.html) &mdash; a wonderfully clear bit of explanation of how you can communicate and embed your strategy through seemingly low key tools.
 
-- [Do I truly want to be a manager](https://m.signalvnoise.com/do-i-truly-want-to-become-a-manager/) &mdash; good questions to make sure peeps who want to become a manager have a reasonable expectation of what it involves. Also good to read now and again to remind yourself of what I myself should be looking at. 
+- [Do I truly want to be a manager](https://m.signalvnoise.com/do-i-truly-want-to-become-a-manager/) &mdash; good questions to make sure peeps who want to become a manager have a reasonable expectation of what it involves. Also good to read now and again to remind yourself of what I myself should be looking at.
 
 - [How privilege defines performace](http://slides.com/tatianamac/how-privilege-defines-performance/fullscreen/#/) &mdash; beautiful slides carefully breaking down how privilege works to build a systematic bias in societies and how we are all part of it (both privileged and not). There's the [video of the talk](https://www.youtube.com/watch?v=nQq_gZiZ-jg) too.
 
@@ -114,4 +114,6 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [How to shine shoes](https://thearmoury.com/blogs/journal/how-to-shine-shoes) &mdash; the world shoe shine champion shows how to shine and get a mirror finish.
 
-- [Swedish cardamom buns](http://www.swedishfood.com/swedish-food-recipes-biscuits-cakes/509-cardamom-buns) &mdash; I'd been working on making cardamom buns for ages with a few different recipes and it wasn't going great. Then one day I was doing my usual reading of [uses this](https://usesthis.com/) when I came across this recipe in the post of the [wonder Darra Goldstein](https://usesthis.com/interviews/darra.goldstein/), linguist and cookbook writer extrordinare! Reader, they were marvellous.
+- [Swedish cardamom buns](http://www.swedishfood.com/swedish-food-recipes-biscuits-cakes/509-cardamom-buns) &mdash; I'd been working on making cardamom buns for ages with a few different recipes and it wasn't going great. Then one day I was doing my usual reading of [uses this](https://usesthis.com/) when I came across this recipe in the post of the [wonderful Darra Goldstein](https://usesthis.com/interviews/darra.goldstein/), linguist and cookbook writer extrordinare! Reader, they were marvellous.
+
+- [Negroni season](https://www.theawl.com/2010/05/negroni-season/) &mdash; a story from the internet. Not really about Negronis.
