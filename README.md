@@ -112,8 +112,16 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Life
 
-- [How to shine shoes](https://thearmoury.com/blogs/journal/how-to-shine-shoes) &mdash; the world shoe shine champion shows how to shine and get a mirror finish.
+### Recipes
 
 - [Swedish cardamom buns](http://www.swedishfood.com/swedish-food-recipes-biscuits-cakes/509-cardamom-buns) &mdash; I'd been working on making cardamom buns for ages with a few different recipes and it wasn't going great. Then one day I was doing my usual reading of [uses this](https://usesthis.com/) when I came across this recipe in the post of the [wonderful Darra Goldstein](https://usesthis.com/interviews/darra.goldstein/), linguist and cookbook writer extrordinare! Reader, they were marvellous.
+
+- [Soft white baps](https://www.theguardian.com/lifeandstyle/2007/oct/06/recipes.foodanddrink) &mdash; Dan Lepard's recipe for soft white baps. Makes a huge and fluffy roll for a breakfast bap.
+
+- [Moro sourdough](https://ifthatsdinnerivehadit.com/moro-sourdough/) &mdash; we've got this one in the book too but useful to have it on the phone.
+
+### Miscellaneous
+
+- [How to shine shoes](https://thearmoury.com/blogs/journal/how-to-shine-shoes) &mdash; the world shoe shine champion shows how to shine and get a mirror finish.
 
 - [Negroni season](https://www.theawl.com/2010/05/negroni-season/) &mdash; a story from the internet. Not really about Negronis.
