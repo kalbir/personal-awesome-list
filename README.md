@@ -100,16 +100,6 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Tachyons](http://tachyons.io/) &mdash; front end framework for building clean sites. Built my current blog incarnation with this.
 
-- [Figma](https://www.figma.com/) &mdash; a design tool mobile apps.
-
-- [Readymag](https://readymag.com/) &mdash; build quirky, small websites with more design choices. Useful for putting something online with novel design.
-
-### Other
-
-- [Checklistomania](https://github.com/18F/checklistomania) &mdash; tool from 18F for managing shared checklists (like onboarding people)
-
-- [Fibery](https://fibery.io/) &mdash; some kind of all in one company management/HR/docs/wiki etc tool. Seems interesting.
-
 ## Life
 
 ### Recipes
