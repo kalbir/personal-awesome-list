@@ -6,6 +6,10 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [33 rules to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html?utm_campaign=TFTWS&utm_medium=email&utm_source=Revue%20newsletter) &mdash; similar to _The Artist's Way_, tips, exercises, exhortations on how to be creative.
 
+- [I'm sure my boyfriend is secretly in love with his co-worker](https://www.thecut.com/2020/06/im-sure-my-boyfriend-is-secretly-in-love-with-his-co-worker.html) &mdash; "Your boyfriend isn’t obsessed with this woman, you are. You’re obsessed with her because you want to become an artist."
+
+- [Some things that Milton Glaser said to my SVA class](https://mobile.twitter.com/johnleedraws/status/1276721178841841664) &mdash; he was a wise man. And he had some good morals.
+
 ## Product Management
 
 - [Top 90+ Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) &mdash; this is superb, so many canonical articles. First place to go for PM related thinking.
