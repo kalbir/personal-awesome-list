@@ -72,8 +72,6 @@ I constantly find myself looking for that one link to the great article on X tha
   
 - [How to be strategic](https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b) &mdash; really good article, very practical.
 
-- [The weekly CEO email](https://medium.com/@gokulrajaram/the-weekly-ceo-e-mail-b5eaafcee6fa) &mdash; the how and why of sending a weekly CEO update. Short version: you definitely need to do this. Possibly worth doing in any leadership role.
-
 - [The power of ten playbook](https://dcgross.com/the-power-of-ten-playbook/) &mdash; this is brilliant. The way I want to build a new product.
 
 ## People
@@ -82,15 +80,21 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) &mdash; Great list of characteristics of someone you'd want to work for, by GitHub senior engineer @keavy.
 
-- [How to socialize changes at work](https://chelseatroy.com/2018/02/25/how-to-socialize-big-changes-at-work-part-1-start-at-the-grassroots-level/) &mdash; this is pretty much exactly what I think about introducing change into teams. This part is about finding allies and how to introduce your idea. It's as if I wrote it.
+- [Do I truly want to be a manager](https://m.signalvnoise.com/do-i-truly-want-to-become-a-manager/) &mdash; good questions to make sure peeps who want to become a manager have a reasonable expectation of what it involves. Also good to read now and again to remind yourself of what I myself should be looking at.
+
+- [How privilege defines performance](http://slides.com/tatianamac/how-privilege-defines-performance/fullscreen/#/) &mdash; beautiful slides carefully breaking down how privilege works to build a systematic bias in societies and how we are all part of it (both privileged and not). There's the [video of the talk](https://www.youtube.com/watch?v=nQq_gZiZ-jg) too.
+
+- [Engineering management: the pendulum or the ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) &mdash; lots of peeps talk about this kind of thing but Charity has some far out opinions. Similar to [this rands podcast](https://randsinrepose.com/archives/the-one-about-management-pt-1/).
+
+## Communication
+
+- [Doing presentations](http://www.doingpresentations.com/) &mdash; the OG. The only way I know how to do presentations. One sentence per slide.
 
 - [Strategic thinking with blogs and stickers](https://gilest.org/blogging-stickers.html) &mdash; a wonderfully clear bit of explanation of how you can communicate and embed your strategy through seemingly low key tools.
 
-- [Do I truly want to be a manager](https://m.signalvnoise.com/do-i-truly-want-to-become-a-manager/) &mdash; good questions to make sure peeps who want to become a manager have a reasonable expectation of what it involves. Also good to read now and again to remind yourself of what I myself should be looking at.
+- [How to socialize changes at work](https://chelseatroy.com/2018/02/25/how-to-socialize-big-changes-at-work-part-1-start-at-the-grassroots-level/) &mdash; this is pretty much exactly what I think about introducing change into teams. This part is about finding allies and how to introduce your idea. It's as if I wrote it.
 
-- [How privilege defines performace](http://slides.com/tatianamac/how-privilege-defines-performance/fullscreen/#/) &mdash; beautiful slides carefully breaking down how privilege works to build a systematic bias in societies and how we are all part of it (both privileged and not). There's the [video of the talk](https://www.youtube.com/watch?v=nQq_gZiZ-jg) too.
-
-- [Engineering management: the pendulum or the ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) &mdash; lots of peeps talk about this kind of thing but Charity has some far out opinions. Similar to [this rands podcast](https://randsinrepose.com/archives/the-one-about-management-pt-1/). 
+- [The weekly CEO email](https://medium.com/@gokulrajaram/the-weekly-ceo-e-mail-b5eaafcee6fa) &mdash; the how and why of sending a weekly CEO update. Short version: you definitely need to do this. Possibly worth doing in any leadership role.
 
 ## Tools
 
