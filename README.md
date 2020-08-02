@@ -26,6 +26,8 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ### Conceptual
 
+- [Testing microservices in production: the sane way](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16) &mdash; the first in the epic five part series about testing in production by Cindy Sridharan. I agree with about 99.5% of this, it is just superb.
+
 - [How facebook manages releasing loads of software all the time](https://t.co/4DNsiOFIZn)
 
 - [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md) &mdash; 18F repo with a playbook, with a lot of the basics around software dev, product, teams, budgets etc. Probably most relevant to larger orgs that struggle with tech projects.
