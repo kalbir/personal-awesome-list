@@ -100,6 +100,10 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Tools
 
+### Organisation
+
+[Tweek](https://tweek.so/) &mdash; this is pretty much how I like to have my todo list set up. I use [Things](https://culturedcode.com/things/) quite heavily at work because it is easy to capture things and used to use [Trello](https://trello.com/) for all other things but this is decent approximation of how my brain works in simple mode.
+
 ### Data
 
 - [Google Data Studio](https://datastudio.google.com/) &mdash; where have you been all my life! I've built this in excel soooooo many times, a way of building dashboards from tonnes of datasources, very excited to use this more.
