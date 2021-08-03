@@ -10,6 +10,10 @@ I constantly find myself looking for that one link to the great article on X tha
 
 - [Some things that Milton Glaser said to my SVA class](https://mobile.twitter.com/johnleedraws/status/1276721178841841664) &mdash; he was a wise man. And he had some good morals.
 
+- [Don't write alone](https://catapult.co/dont-write-alone) &mdash; resources to help you with the practice of writing, things like prompts, essays, people, pictures. So that you do this thing not on your own.
+
+- [Garlic in fiction](https://www.newyorker.com/books/page-turner/garlic-in-fiction) &mdash; advice from Shirley Jackson on how to make your writing interesting. You've got to use your linguistic devices like you'd use garlic to make something tasty.
+
 ## Product Management
 
 - [Top 90+ Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) &mdash; this is superb, so many canonical articles. First place to go for PM related thinking.
