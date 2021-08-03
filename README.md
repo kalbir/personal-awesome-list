@@ -16,13 +16,13 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Product Management
 
+- [The oxymoron of data driven development](https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/) &mdash; data driven developed centres product work on the majority. Great products are made by focusing on those who are underserved by current products and markets. That's how you do innovation. So look to underserved groups to build your product innovatively and effectively.
+
 - [Top 90+ Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) &mdash; this is superb, so many canonical articles. First place to go for PM related thinking.
 
 - [The first principles of product management](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c) &mdash; maximise impact to the mission and achieve everything through others. Long, good.
 
 - [Product management mental models](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) &mdash; great list of mental models to use in product management. They are the little shorthands you pick up through experience to help familiarise yourself in new territory. Examples: local maxima, ship earlier for customer value, key failure indicator (love that one).
-
-- [Shape up](https://basecamp.com/shapeup) &mdash; product management from 37signals. I'm a bit in love with this at the moment.
 
 - [Product Launch Checklist](https://medium.com/@tanyajohnson/product-launch-checklist-8483105f82f3#.yxfhqdocf) &mdash; very comprehensive [spreadsheet](https://docs.google.com/spreadsheets/d/1T_dtCX9uMUohPLwF8U8k0G2JVvb90qdkO65UH3Ah1qI/edit#gid=0) covering product launch activities.
 
@@ -78,7 +78,7 @@ I constantly find myself looking for that one link to the great article on X tha
   
 - [How to be strategic](https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b) &mdash; really good article, very practical.
 
-- [The power of ten playbook](https://dcgross.com/the-power-of-ten-playbook/) &mdash; this is brilliant. The way I want to build a new product.
+- [The power of ten playbook](https://dcgross.com/the-power-of-ten-playbook/) &mdash; this is great. The way I want to build a new product.
 
 ## People
 
