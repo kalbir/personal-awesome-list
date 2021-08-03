@@ -16,7 +16,7 @@ I constantly find myself looking for that one link to the great article on X tha
 
 ## Product Management
 
-- [The oxymoron of data driven development](https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/) &mdash; data driven developed centres product work on the majority. Great products are made by focusing on those who are underserved by current products and markets. That's how you do innovation. So look to underserved groups to build your product innovatively and effectively.
+- [The oxymoron of "data driven innovation"](https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/) &mdash; data driven developed centres product work on the majority. Great products are made by focusing on those who are underserved by current products and markets. That's how you do innovation. So look to underserved groups to build your product innovatively and effectively.
 
 - [Top 90+ Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) &mdash; this is superb, so many canonical articles. First place to go for PM related thinking.
 
